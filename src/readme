@@ -1,0 +1,19 @@
+Olá professor, o programa solicitado trata de uma fila de prioridade, solicitada na aula. 
+
+as prioridadades serão asseguradas por uma senha de usuário inserida no momento da solicitação. 
+
+senha prioridade 1:
+1234
+
+senha prioridadade 2:
+4321
+
+senha prioridade 3: 
+2468
+
+Os arquivos foram separados por modulos, sendo o arquivo ".h" estando na pasta include.
+E os arquivos de execução ".c" constando na pasta src, voltado para as funções e partes lógicas do programa.
+
+
+Foi usado o VScode para a execução do projeto, e executado com o Compilador MinGW.
+
